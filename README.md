@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
