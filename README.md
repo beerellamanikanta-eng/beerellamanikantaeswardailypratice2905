@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
