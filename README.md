@@ -24,6 +24,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -32,4 +33,9 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
