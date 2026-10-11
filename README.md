@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
