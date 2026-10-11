@@ -19,11 +19,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
 ## Bracket Sequences
 |  |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
