@@ -40,10 +40,12 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0365-water-and-jug-problem) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
