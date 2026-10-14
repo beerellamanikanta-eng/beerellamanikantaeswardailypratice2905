@@ -9,6 +9,7 @@
 | [0225-implement-stack-using-queues](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0503-next-greater-element-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -101,4 +103,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
