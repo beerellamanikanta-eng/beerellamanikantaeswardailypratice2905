@@ -8,6 +8,7 @@
 | [0155-min-stack](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
