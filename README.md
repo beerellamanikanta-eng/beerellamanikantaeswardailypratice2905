@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0503-next-greater-element-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
@@ -59,6 +60,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0503-next-greater-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
