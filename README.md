@@ -29,6 +29,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0680-valid-palindrome-ii) |
+| [2409-count-days-spent-together](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2409-count-days-spent-together) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/0365-water-and-jug-problem) |
+| [2409-count-days-spent-together](https://github.com/beerellamanikanta-eng/beerellamanikantaeswardailypratice2905/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
 | ------- |
